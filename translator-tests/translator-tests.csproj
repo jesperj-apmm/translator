@@ -25,6 +25,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\codesession\codesession.csproj" />
+      <ProjectReference Include="..\translator\translator.csproj" />
     </ItemGroup>
 
 </Project>
